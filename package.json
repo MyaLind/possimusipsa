@@ -1,0 +1,28 @@
+{
+  "name": "possimusipsa",
+  "version": "1.0.0",
+  "description": "Dice module that will parse, format, and execute dice notation commands",
+  "main": "dice.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MyaLind/possimusipsa.git"
+  },
+  "keywords": [
+    "omnis",
+    "roll",
+    "die",
+    "sapiente"
+  ],
+  "author": "AdrianaGottlieb",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MyaLind/possimusipsa.git/issues"
+  },
+  "dependencies": {
+    "lodash": "^2.4.1"
+  },
+  "devDependencies": {
+    "chai": "^1.9.1",
+    "mocha": "^1.21.4"
+  }
+}
